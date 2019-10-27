@@ -1,0 +1,19 @@
+{
+  "name": "react-app-rewire-configurable",
+  "version": "0.0.1",
+  "description": "This package makes a part of modifications to react-scripts 2.0 to build custom configure",
+  "main": "config-overrides.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shevchenkonik/react-app-rewire-configurable.git"
+  },
+  "author": "Nik Shevchenko <shevchenko.nik@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shevchenkonik/react-app-rewire-configurable/issues"
+  },
+  "homepage": "https://github.com/shevchenkonik/react-app-rewire-configurable#readme"
+}
